@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024px" height="768px" viewBox="0 0 1024 768">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css?family=Pacifico); </style>
+</defs>
+<clipPath id="cp1">
+<path d="M 0,0 L 1024,0 L1024,768 L 0,768 z M 0,0 L 1280,0 L 1280,960 L 0,960 z" fill-rule="evenodd">
+</path>
+</clipPath>
+<g clip-path="url(#cp1)">
+</g>
+<rect x="0" y="0" width="1280" height="960" opacity="1" fill="#fff" stroke="none">
+</rect>
+<text x="-117.24150085449219" y="7.3764028800000006" style="font: normal 73.7640288px Pacifico" text-anchor="start" dy="29.155742608695657" opacity="1" fill="#c00" stroke="none" transform="translate(512, 384)">Darbar</text>
+<text x="-75.08766174316406" y="7.3764028800000006" style="font: normal 73.7640288px Pacifico" text-anchor="start" dy="29.155742608695657" opacity="1" fill="#E8A664" stroke="none" transform="translate(526, 450) rotate(23.107579127664724)">style</text>
+<text x="-79.18135070800781" y="7.3764028800000006" style="font: normal 73.7640288px Pacifico" text-anchor="start" dy="29.155742608695657" opacity="1" fill="#E8A664" stroke="none" transform="translate(514, 312)">looks</text>
+<text x="-189.56317138671875" y="7.3764028800000006" style="font: normal 73.7640288px Pacifico" text-anchor="start" dy="29.155742608695657" opacity="1" fill="#c00" stroke="none" transform="translate(454, 518) rotate(11.018921150888044)">Blockbuster</text>
+<text x="-156.11300659179688" y="7.3764028800000006" style="font: normal 73.7640288px Pacifico" text-anchor="start" dy="29.155742608695657" opacity="1" fill="#9C6043" stroke="none" transform="translate(648, 382) rotate(-83.13216542781616)">Housefull</text>
+<text x="-89.065185546875" y="7.3764028800000006" style="font: normal 73.7640288px Pacifico" text-anchor="start" dy="29.155742608695657" opacity="1" fill="#E8A664" stroke="none" transform="translate(372, 404) rotate(44.17757987896639)">shows</text>
+<text x="-84.49205780029297" y="7.3764028800000006" style="font: normal 73.7640288px Pacifico" text-anchor="start" dy="29.155742608695657" opacity="1" fill="#438D9C" stroke="none" transform="translate(500, 240)">Rajni</text>
+<text x="-61.11012268066406" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#E8A664" stroke="none" transform="translate(374, 328)">thalaiva</text>
+<text x="-74.0918960571289" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#171717" stroke="none" transform="translate(368, 248) rotate(-44.60420440761015)">superstar</text>
+<text x="-38.244537353515625" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#c00" stroke="none" transform="translate(704, 388) rotate(-49.3958957540037)">Love</text>
+<text x="-26.350753784179688" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#438D9C" stroke="none" transform="translate(598, 350) rotate(-44.60893011747332)">Sir</text>
+<text x="-148.4972686767578" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#438D9C" stroke="none" transform="translate(510, 584)">BharatMatrimony</text>
+<text x="-41.231834411621094" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#c00" stroke="none" transform="translate(410, 282) rotate(53.96891290529575)">Anna</text>
+<text x="-61.95838165283203" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#E8A664" stroke="none" transform="translate(532, 196)">Current</text>
+<text x="-38.70555114746094" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#438D9C" stroke="none" transform="translate(708, 432)">word</text>
+<text x="-43.684349060058594" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#9C6043" stroke="none" transform="translate(714, 468)">USA</text>
+<text x="-44.80918884277344" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#c00" stroke="none" transform="translate(534, 176)">Tamil</text>
+<text x="-127.34661102294922" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#c00" stroke="none" transform="translate(510, 620)">HOUSEFULL</text>
+<text x="-78.96005249023438" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#E8A664" stroke="none" transform="translate(298, 292) rotate(-57.393004611686806)">Superhero</text>
+<text x="-46.96666717529297" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#c00" stroke="none" transform="translate(684, 526) rotate(-59.92704767165833)">Mega</text>
+<text x="-80.10333251953125" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#E8A664" stroke="none" transform="translate(278, 432)">Megastar</text>
+<text x="-40.512657165527344" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#9C6043" stroke="none" transform="translate(370, 544)">agree</text>
+<text x="-42.61482238769531" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#171717" stroke="none" transform="translate(604, 280)">movie</text>
+<text x="-78.90473175048828" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#171717" stroke="none" transform="translate(392, 176)">Superstar</text>
+<text x="-35.40479278564453" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#438D9C" stroke="none" transform="translate(494, 348)">anna</text>
+<text x="-97.7135238647461" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#171717" stroke="none" transform="translate(448, 140)">Unstoppable</text>
+<text x="-66.91874694824219" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#171717" stroke="none" transform="translate(610, 202) rotate(89.74061971595468)">costumes</text>
+<text x="-127.75228118896484" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#438D9C" stroke="none" transform="translate(774, 438) rotate(-85.69155272176022)">Sankranthi2020</text>
+<text x="-58.54698181152344" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#E8A664" stroke="none" transform="translate(268, 396)">Movies</text>
+<text x="-85.19275665283203" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#438D9C" stroke="none" transform="translate(716, 200)">everywhere</text>
+<text x="-52.35115051269531" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#c00" stroke="none" transform="translate(712, 336) rotate(-45.36709898830028)">success</text>
+<text x="-73.07770538330078" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#438D9C" stroke="none" transform="translate(762, 276)">witnessed</text>
+<text x="-55.485939025878906" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#438D9C" stroke="none" transform="translate(272, 254) rotate(-77.319450660052)">Pongal</text>
+<text x="-61.55268859863281" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#c00" stroke="none" transform="translate(194, 332) rotate(-19.476261155091322)">holidays</text>
+<text x="-52.885894775390625" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#438D9C" stroke="none" transform="translate(670, 164)">darbar</text>
+<text x="-51.355384826660156" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#171717" stroke="none" transform="translate(270, 536)">beyond</text>
+<text x="-86.92613220214844" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#E8A664" stroke="none" transform="translate(210, 466) rotate(42.591189291598106)">imagination</text>
+<text x="-50.45182800292969" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#c00" stroke="none" transform="translate(596, 120)">fitness</text>
+<text x="-35.662940979003906" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#171717" stroke="none" transform="translate(722, 568) rotate(33.59646409872038)">level</text>
+<text x="-63.89459228515625" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#438D9C" stroke="none" transform="translate(758, 240)">stunning</text>
+<text x="-43.887184143066406" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#c00" stroke="none" transform="translate(318, 580)">latter</text>
+<text x="-46.782249450683594" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#E8A664" stroke="none" transform="translate(840, 384)">Rajini</text>
+<text x="-31.86431121826172" y="3.6882014400000003" style="font: normal 36.8820144px Pacifico" text-anchor="start" dy="14.577871304347829" opacity="1" fill="#E8A664" stroke="none" transform="translate(694, 592)">stop</text>
+</svg>

@@ -1,0 +1,84 @@
+:root {
+  --line-chart-color: #607D8B;
+  --annotation-context-color: #546E7A;
+  --annotation-badge-color:white;
+  --annotation-color: #E8336D;
+}
+
+svg {
+  background-color: white;
+  font-family: 'Nunito';
+}
+
+.axis, .axis text {
+  fill: #000;
+}
+
+path {
+  stroke: var(--line-chart-color);
+}
+
+.tweets_line {
+  stroke: #e0245e;
+}
+.retweets_line {
+  stroke: #17bf63;
+}
+.replies_line {
+  stroke: #1da1f2;
+}
+
+circle {
+  fill: #607D8B;
+}
+
+path {
+  fill: none;
+  stroke-width: 1.5px;
+}
+
+text {
+  fill: var(--line-chart-color);
+  stroke: var(--line-chart-color);
+}
+
+.region {
+  opacity: 0.1;
+}
+
+.region_text {
+  font-size: 12px;
+}
+
+.hover-line {
+  stroke: #6F257F;
+  stroke-width: 2px;
+  stroke-dasharray: 2,4;
+}
+
+.tooltip_box {
+  fill: #FFF;
+}
+
+.c3-tooltip th {
+  background-color: #FFF !important;
+  color: #000 !important;
+}
+
+.chart_marker {
+  fill: #FFF;
+  stroke: #FFF;
+}
+
+.retweets_total {
+  fill: #17bf63;
+  stroke: #17bf63;
+}
+.tweets_total {
+  fill: #e0245e;
+  stroke: #e0245e;
+}
+.replies_total {
+  fill: #1da1f2;
+  stroke: #1da1f2;
+}
